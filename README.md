@@ -15,7 +15,7 @@ The one in the folder src which named `src/model_make` is a place to put algorit
 
 It will look like:
 
-<img width="1011" alt="gui_make" src="./interface_picture/gui_make.png">
+![](./interface_img/gui_real.png "gui real")
 
 ### Blueprint maker
 This is a tool for building blueprints.Construct the connection between the reactors.
@@ -41,7 +41,7 @@ In interface `Blueprint Maker` click:
 (The prerequisite is that you need to create an MDI window first)
 ## others
 There is still a lot to be done.
-### baselin
+### baseline
 - Refine and publish `Model Maker` (Not the one in the folder src, it will be named `gui_make`)
 - Refine and publish `Equation Maker`：Reactor connections can be recommended from the chemical equation.
 - Refine and publish `LBM Simulation`.
