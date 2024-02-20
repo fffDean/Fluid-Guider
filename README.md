@@ -12,6 +12,11 @@ This is a GUI for designing continuous flow reactors. It consists of three parts
 This is a tool for encapsulating reactor modules.Not published in this project. (Not the one in the folder src, it will be named `gui_make`)
 
 The one in the folder src which named `src/model_make` is a place to put algorithms.
+
+It will look like:
+
+<img width="1011" alt="gui_make" src="./interface_picture/gui_make.png">
+
 ### Blueprint maker
 This is a tool for building blueprints.Construct the connection between the reactors.
 
