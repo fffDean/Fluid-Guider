@@ -15,7 +15,7 @@ The one in the folder src which named `src/model_make` is a place to put algorit
 
 It will look like:
 
-![](./interface_img/gui_real.jpg "gui real")
+![](./interface_img/gui_make.jpg "gui make")
 
 ### Blueprint maker
 This is a tool for building blueprints.Construct the connection between the reactors.
@@ -24,6 +24,9 @@ Go to the folder `src/gui_test` and run:
 <pre>
     <code>python test.py</code>
 </pre>
+It looks like this:
+
+![](./interface_img/gui_test.jpg "gui test")
 ### RealMap maker
 It's a design tool for the layout and wiring of reactors.
 
@@ -39,6 +42,10 @@ In interface `Blueprint Maker` click:
 `File`-->`To RealMap`(Ctrl+K)
 
 (The prerequisite is that you need to create an MDI window first)
+
+It looks like this:
+
+![](./interface_img/gui_real.jpg "gui real")
 ## others
 There is still a lot to be done.
 ### baseline
