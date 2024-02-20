@@ -15,7 +15,7 @@ The one in the folder src which named `src/model_make` is a place to put algorit
 
 It will look like:
 
-![](./interface_img/gui_real.png "gui real")
+![](./interface_img/gui_real.jpg "gui real")
 
 ### Blueprint maker
 This is a tool for building blueprints.Construct the connection between the reactors.
